@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+      "item": "keaponruby:diamond_battleaxe"
+    },
+    "addition": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "result": {
+      "item": "keaponruby:netherite_battleaxe"
+    }
+  }

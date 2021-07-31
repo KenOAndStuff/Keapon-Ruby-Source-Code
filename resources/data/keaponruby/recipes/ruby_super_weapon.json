@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+      "item": "keaponruby:netherite_axcalibur
+    },
+    "addition": {
+      "item": "keaponruby:compressed_ruby"
+    },
+    "result": {
+      "item": "keaponruby:ruby_axcalibur
+    }
+  }

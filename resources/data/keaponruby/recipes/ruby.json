@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "ruby",
+  "ingredients": [
+    {
+      "item": "keaponruby:ruby_block"
+    }
+  ],
+  "result": {
+    "item": "keaponruby:ruby",
+    "count": 9
+  }
+}

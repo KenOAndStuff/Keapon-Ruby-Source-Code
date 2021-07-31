@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#@#",
+        "@@@",
+        "@|@"
+    ],
+    "key": {
+        "#":{
+            "item": "minecraft:netherite_block"
+        },
+        "|":{
+            "item": "keaponruby:rubied_netherite_battleaxe"
+        },
+        "@":{
+            "item": "keaponruby:compressed_ruby"
+        }
+    },
+    "result": {
+        "item":"keaponruby:ruby_battleaxe"
+    }
+}

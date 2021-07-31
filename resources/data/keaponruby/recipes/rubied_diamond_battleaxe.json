@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#@#",
+        "$|$",
+        " | "
+    ],
+    "key": {
+        "#":{
+            "item": "minecraft:diamond_block"
+        },
+        "$":{
+            "item": "minecraft:diamond"
+        },
+        "|":{
+            "item": "minecraft:stick"
+        },
+        "@":{
+            "item": "keaponruby:ruby"
+        }
+    },
+    "result": {
+        "item":"keaponruby:rubied_diamond_battleaxe"
+    }
+}

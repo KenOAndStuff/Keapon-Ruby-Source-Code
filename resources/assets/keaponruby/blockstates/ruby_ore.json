@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "" :{
+      "model": "keaponruby:block/ruby_ore"
+    }
+  }
+}

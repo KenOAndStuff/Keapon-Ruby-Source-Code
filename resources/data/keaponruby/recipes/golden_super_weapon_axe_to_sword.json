@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+      "item": "minecraft:golden_axe"
+    },
+    "addition": {
+      "item": "minecraft:golden_sword"
+    },
+    "result": {
+      "item": "keaponruby:golden_axcalibur
+    }
+  }
